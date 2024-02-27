@@ -2,18 +2,18 @@
 This is a task management app built with Flutter, Firebase Authentication, and Firebase Realtime Database. The app allows users to log in, create tasks, share tasks with other users, and manage their tasks efficiently.
 
 ### Features
-User Authentication: Users can log in using their email and password.
-Task Creation: Users can create tasks with a title, description, due date, and category.
-Task Sharing: Tasks can be shared with other users via email.
-Real-time Updates: Tasks shared with other users are updated in real-time.
-Task Filtering: Users can view tasks created by them or shared with them.
-Responsive Design: The app is designed to work seamlessly on both mobile and tablet devices.
+- User Authentication: Users can log in using their email and password.
+- Task Creation: Users can create tasks with a title, description, due date, and category.
+- Task Sharing: Tasks can be shared with other users via email.
+- Real-time Updates: Tasks shared with other users are updated in real-time.
+- Task Filtering: Users can view tasks created by them or shared with them.
+- Responsive Design: The app is designed to work seamlessly on both mobile and tablet devices.
 
 ### Libraries Used
-Flutter: A framework for building native applications for mobile, web, and desktop from a single codebase.
-Provider: A state management library for Flutter.
-Firebase Auth: Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
-Firebase Firestore Database: Firebase Firestore Database is a cloud-hosted database that supports real-time syncing.
+- Flutter: A framework for building native applications for mobile, web, and desktop from a single codebase.
+- Provider: A state management library for Flutter.
+- Firebase Auth: Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
+- Firebase Firestore Database: Firebase Firestore Database is a cloud-hosted database that supports real-time syncing.
 
 Getting Started
 To run this app, you need to have Flutter installed. Then, clone this repository and run the following command:
